@@ -1,4 +1,4 @@
-/* Zelk v1.2 */
+/* Pinky🌸 v1.0 */
 /* imports */
 @import url('https://rsms.me/inter/inter.css');
 /* background */
@@ -764,7 +764,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
 .userInfoSection-q_35fn:nth-child(2) {
   padding-bottom: 16px;
 }
-.root-1gCeng[data-user-id="652801938374656013"] .badgeList-1R1WgZ::after {
+.root-1gCeng[data-user-id="852827726707818526"] .badgeList-1R1WgZ::after {
   background-image: url(https://cdn.discordapp.com/attachments/733994170162610178/854785472404520991/badge.png);
   margin: 1px;
   width: 20px;
@@ -772,7 +772,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   background-size: contain;
   content: "";
 }
-.userPopout-xaxa6l[data-user-id="652801938374656013"] .profileBadges-ohc0Vu::after {
+.userPopout-xaxa6l[data-user-id="852827726707818526"] .profileBadges-ohc0Vu::after {
   background-image: url(https://cdn.discordapp.com/attachments/733994170162610178/854785472404520991/badge.png);
   margin: 1px;
   width: 17px;
@@ -1672,7 +1672,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   --outdated: block;
 }
 body:not(.powercord) .panels-j1Uci_::before {
-  content: "Please update to Zelk v1.2";
+  content: "Please update to Pinky🌸 v1.0";
   font-weight: 600;
   color: var(--text-normal);
   text-align: center;
@@ -1684,7 +1684,7 @@ body:not(.powercord) .panels-j1Uci_::before {
   border-top: 1px solid var(--border-color);
 }
 body:not(.powercord) .panels-j1Uci_::after {
-  content: "Download from betterdiscord.app/theme/zelk\AGet support at discord.gg/tMEcBhsNqA";
+  content: "Get support at discord.gg/XTjJ8ynk";
   white-space: pre;
   font-size: 12px;
   color: var(--text-muted);
