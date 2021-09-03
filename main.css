@@ -764,7 +764,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
 .userInfoSection-q_35fn:nth-child(2) {
   padding-bottom: 16px;
 }
-.root-1gCeng[data-user-id="852827726707818526"] .badgeList-1R1WgZ::before {
+.root-1gCeng[data-user-id="852827726707818526"] .badgeList-1R1WgZ::after {
   background-image: url(https://cdn.discordapp.com/attachments/858581904101081088/883316677176094730/SB_Star.png);
   margin: 1px;
   width: 20px;
@@ -772,7 +772,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   background-size: contain;
   content: "";
 }
-.userPopout-xaxa6l[data-user-id="852827726707818526"] .profileBadges-ohc0Vu::before {
+.userPopout-xaxa6l[data-user-id="852827726707818526"] .profileBadges-ohc0Vu::after {
   background-image: urlhttps://cdn.discordapp.com/attachments/858581904101081088/883316677176094730/SB_Star.png);
   margin: 1px;
   width: 17px;
