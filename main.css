@@ -686,7 +686,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   max-width: unset;
   top: 0;
   padding-left: 8px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 .avatar-1uQSZT+div {
   margin-top: 4px;
